@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/hashkazi/Desktop/ESP32/idiot_client/build/CMakeFiles/bootloader
+/Users/hashkazi/Desktop/ESP32/idiot_client/build/CMakeFiles/bootloader.rule
+/Users/hashkazi/Desktop/ESP32/idiot_client/build/CMakeFiles/bootloader-complete.rule
+/Users/hashkazi/Desktop/ESP32/idiot_client/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/hashkazi/Desktop/ESP32/idiot_client/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/hashkazi/Desktop/ESP32/idiot_client/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/hashkazi/Desktop/ESP32/idiot_client/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/Users/hashkazi/Desktop/ESP32/idiot_client/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/hashkazi/Desktop/ESP32/idiot_client/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/hashkazi/Desktop/ESP32/idiot_client/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
